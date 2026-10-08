@@ -1,0 +1,11 @@
+# Ignorar todo en la raíz
+/*
+
+# Excepto el propio .gitignore
+!/.gitignore
+
+# Excepto estas 4 carpetas
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!/UserSettings/
